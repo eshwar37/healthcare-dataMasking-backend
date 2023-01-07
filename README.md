@@ -43,7 +43,7 @@ NeuroNER relies on Python 3, TensorFlow 1.0+, and optionally on BRAT:
 
 ## Installation
 
-For GPU support, [GPU requirements for Tensorflow](https://www.tensorflow.org/install/) must be satisfied. If your system does not meet these requirements, you should use the CPU version. To install neuroner:
+For GPU support,[GPU requirements for Tensorflow](https://www.tensorflow.org/install/) must be satisfied. If your system does not meet these requirements, you should use the CPU version. To install neuroner:
 
 ```
 # For CPU support (no GPU support):
